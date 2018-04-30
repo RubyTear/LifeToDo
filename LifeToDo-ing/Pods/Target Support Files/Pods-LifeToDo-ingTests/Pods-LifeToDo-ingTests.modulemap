@@ -1,0 +1,6 @@
+framework module Pods_LifeToDo_ingTests {
+  umbrella header "Pods-LifeToDo-ingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
